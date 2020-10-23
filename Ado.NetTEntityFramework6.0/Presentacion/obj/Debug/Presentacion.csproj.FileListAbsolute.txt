@@ -1,0 +1,5 @@
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Presentacion\obj\Debug\Presentacion.Client.resources
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache

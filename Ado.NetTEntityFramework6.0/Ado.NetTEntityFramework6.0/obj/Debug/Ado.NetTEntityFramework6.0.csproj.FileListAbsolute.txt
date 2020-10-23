@@ -1,0 +1,16 @@
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\bin\Debug\Ado.NetTEntityFramework6.0.exe.config
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\bin\Debug\Ado.NetTEntityFramework6.0.exe
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\bin\Debug\Ado.NetTEntityFramework6.0.pdb
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\bin\Debug\EntityFramework.dll
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\bin\Debug\EntityFramework.xml
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\obj\Debug\Ado.NetTEntityFramework6.0.csprojAssemblyReference.cache
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\obj\Debug\Ado.NetTEntityFramework6._0.Form1.resources
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\obj\Debug\Ado.NetTEntityFramework6._0.Properties.Resources.resources
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\obj\Debug\Ado.NetTEntityFramework6._0.Registro.resources
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\obj\Debug\Ado.NetTEntityFramework6.0.csproj.GenerateResource.cache
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\obj\Debug\Ado.NetTEntityFramework6.0.csproj.CoreCompileInputs.cache
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\obj\Debug\Ado.NetTEntityFramework6.0.csproj.CopyComplete
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\obj\Debug\Ado.NetTEntityFramework6.0.exe
+C:\Users\Ed\Documents\Repositorios\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\Ado.NetTEntityFramework6.0\obj\Debug\Ado.NetTEntityFramework6.0.pdb
